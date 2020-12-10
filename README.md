@@ -2,6 +2,9 @@
 
 medico is an app that aims to ease the process of medicine prescription, reminders and sharing.
 
+## Notes
+use `FireBase` to store info online.
+
 ## Resources
 api: [HealthOS](https://www.healthos.co/#/home/search)
 
