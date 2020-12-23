@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T12:11:24.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="DtOyXmYEi_lsREzLOPSl" version="14.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-23T12:14:38.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="1DhbAj5Vv3RmEOdYIWhj" version="14.1.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Sign in">
     <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -316,6 +316,9 @@
         <mxCell id="aB7O5CC_ltuVnf_nf863-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=oval;endFill=1;fontSize=16;" edge="1" parent="X4jcQNZWm2jE6h-59Nsw-1" source="aB7O5CC_ltuVnf_nf863-18" target="aB7O5CC_ltuVnf_nf863-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ItKSQ114YDygCJO9xukr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=oval;endFill=1;fontSize=16;" edge="1" parent="X4jcQNZWm2jE6h-59Nsw-1" source="aB7O5CC_ltuVnf_nf863-18" target="ItKSQ114YDygCJO9xukr-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aB7O5CC_ltuVnf_nf863-18" value="Patient" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="X4jcQNZWm2jE6h-59Nsw-1">
           <mxGeometry x="90" y="960" width="120" height="40" as="geometry" />
         </mxCell>
@@ -326,16 +329,16 @@
           <mxGeometry x="394" y="740" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aB7O5CC_ltuVnf_nf863-21" value="Gender" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="X4jcQNZWm2jE6h-59Nsw-1">
-          <mxGeometry x="394" y="900" width="120" height="40" as="geometry" />
+          <mxGeometry x="394" y="930" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aB7O5CC_ltuVnf_nf863-22" value="Disease" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="X4jcQNZWm2jE6h-59Nsw-1">
-          <mxGeometry x="394" y="980" width="120" height="40" as="geometry" />
+          <mxGeometry x="394" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aB7O5CC_ltuVnf_nf863-23" value="Prescription" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="X4jcQNZWm2jE6h-59Nsw-1">
           <mxGeometry x="394" y="1150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aB7O5CC_ltuVnf_nf863-24" value="Age" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="X4jcQNZWm2jE6h-59Nsw-1">
-          <mxGeometry x="394" y="820" width="120" height="40" as="geometry" />
+          <mxGeometry x="394" y="860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aB7O5CC_ltuVnf_nf863-25" value="Reports" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="X4jcQNZWm2jE6h-59Nsw-1">
           <mxGeometry x="394" y="1070" width="120" height="40" as="geometry" />
@@ -411,6 +414,9 @@
         </mxCell>
         <mxCell id="aB7O5CC_ltuVnf_nf863-56" value="Suggested tests" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="X4jcQNZWm2jE6h-59Nsw-1">
           <mxGeometry x="394" y="1300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ItKSQ114YDygCJO9xukr-0" value="number and/or email" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="X4jcQNZWm2jE6h-59Nsw-1">
+          <mxGeometry x="394" y="800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
